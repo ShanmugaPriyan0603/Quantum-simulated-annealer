@@ -1,0 +1,14 @@
+# config.py
+
+GRID_SIZE = 500
+
+# Terrain
+RANDOM_SEED = 42
+NUM_RUNS=1000
+GAUSSIAN_SIGMA = 20
+
+# Bicycle
+MAX_ITERATIONS = 10000
+
+# Visualization
+FIGURE_SIZE = (8, 8)
